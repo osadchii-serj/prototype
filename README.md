@@ -11,4 +11,4 @@
 - user_data - UserData
 
 
-![Image alt](https://github.com/osadchii-serj/prototype/raw/main/data/svg/prototype.svg)
+![Image alt](https://github.com/osadchii-serj/prototype/raw/main/date/svg/prototype.svg)
